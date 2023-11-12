@@ -13,8 +13,8 @@ Welcome to the Portfolio Optimization Website, a powerful tool built with Dash P
 
 ## Usage
 
-<li>Select the historical date range.</li>
-<li>Select the desired S&P 500 stocks for your portfolio.</li>
-<li>Click the "Optimize" button to generate an optimized portfolio on the Efficient Frontier.</li>
-<li>Explore the results and analyze the risk-return trade-offs.</li>
+1. Select the historical date range.
+2. Select the desired S&P 500 stocks for your portfolio.
+3. Click the "Optimize" button to generate an optimized portfolio on the Efficient Frontier.
+4. Explore the results and analyze the risk-return trade-offs.
 
