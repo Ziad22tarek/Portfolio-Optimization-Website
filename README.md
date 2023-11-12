@@ -19,9 +19,7 @@ Welcome to the Portfolio Optimization Website, a powerful tool built with Dash P
 4. Explore the results and analyze the risk-return trade-offs.
 
 ## Screenshots
-<img src='https://github.com/your-username/portfolio-optimization/raw/main/images/dashboard.png](https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%201.jpg'>
-<img src='https://github.com/your-username/portfolio-optimization/raw/main/images/optimization_results.png](https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%202.jpg'>
-<img src='https://github.com/your-username/portfolio-optimization/raw/main/images/stock_selection.png](https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%203.jpg'>
-<img src='https://github.com/your-username/portfolio-optimization/raw/main/images/risk_return_analysis.png](https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%204.jpg)https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%204.jpg'>
+<img src='https://github.com/Ziad22tarek/TESLA-Project/blob/main/Images/HighLowLine.PNG'>
+
 
 
