@@ -20,12 +20,9 @@ Welcome to the Portfolio Optimization Website, a powerful tool built with Dash P
 
 ## Screenshots
 
-```python
-# Example code for showcasing screenshots
-screenshots = [
-    "![screenshot 1]([https://github.com/your-username/portfolio-optimization/raw/main/images/dashboard.png](https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%201.jpg))",
-    "![screenshot 2]([https://github.com/your-username/portfolio-optimization/raw/main/images/optimization_results.png](https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%202.jpg))",
-    "![screenshot 3]([https://github.com/your-username/portfolio-optimization/raw/main/images/stock_selection.png](https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%203.jpg))",
-    "![screenshot 4]([https://github.com/your-username/portfolio-optimization/raw/main/images/risk_return_analysis.png](https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%204.jpg)https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%204.jpg)"
-]
+    <img src='https://github.com/your-username/portfolio-optimization/raw/main/images/dashboard.png](https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%201.jpg'>
+    <img src='https://github.com/your-username/portfolio-optimization/raw/main/images/optimization_results.png](https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%202.jpg'>
+    <img src='https://github.com/your-username/portfolio-optimization/raw/main/images/stock_selection.png](https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%203.jpg'>
+    <img src='https://github.com/your-username/portfolio-optimization/raw/main/images/risk_return_analysis.png](https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%204.jpg)https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%204.jpg'>
+
 
