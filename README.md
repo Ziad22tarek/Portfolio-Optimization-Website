@@ -18,8 +18,7 @@ Welcome to the Portfolio Optimization Website, a powerful tool built with Dash P
 3. Click the "Optimize" button to generate an optimized portfolio on the Efficient Frontier.
 4. Explore the results and analyze the risk-return trade-offs.
 
-## Screenshots
-![ScreenShot]([https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg](https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%201.jpg)https://github.com/Ziad22tarek/Portfolio-Optimization-Website/blob/main/Screen%20Shots/screenshot%201.jpg)
+
 
 
 
